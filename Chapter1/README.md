@@ -1,13 +1,15 @@
+```
 1. Which of the following are operators, and which are values?
 
-*
+
 'hello'
 -88.8
 -
 /
 +
 5
-
+```
+```
 Answer:
 
 > * - It is a Operator (Mutiples)
@@ -23,3 +25,4 @@ Answer:
 > + - It is a Operator (Addition)
 
 > 5 - It is a value
+```
