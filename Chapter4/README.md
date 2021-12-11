@@ -109,7 +109,10 @@ Answer:
 ```
 ```
 Answer:
->
+> Both lists and strings can be passed to len(),
+> have indexes and slices, be used in for loops,
+> be concatenated or replicated,
+> and be used with the in and not in operators.
 ```
 
 ```
@@ -117,6 +120,46 @@ Answer:
 ```
 ```
 Answer:
-> Difference between Lists and Tuples are:
+> Difference between Lists and Tuples respectively are:
+ 1. Mutable and Immutable
+ 2. Insertion and deletion best for Lists but tuples are appropriate for accessing the elements
+ 3. Have several built-in methods whereas for for tuple they dont have much built-in methods.
+```
 
+```
+14. How do you type the tuple value that has just the integer value 42 in it?
+```
+```
+Answer:
+> tuple = (42)
+```
+
+```
+15. How can you get the tuple form of a list value? How can you get the list form of a tuple value?
+```
+```
+Answer:
+> using list() function,
+  Ex : List = list(Tuple)
+
+> using tuple() function,
+  Ex : Tuple = tuple(List)
+```
+
+```
+16. Variables that “contain” list values don’t actually contain lists directly. What do they contain instead?
+```
+```
+Answer:
+> List values
+```
+
+```
+17. What is the difference between copy.copy() and copy.deepcopy()?
+```
+```
+Answer:
+> The copy.copy(), can be used to make a duplicate copy of a mutable value like a list
+
+> The deepcopy() function will copy the inner lists as well and a copy of a reference
 ```
