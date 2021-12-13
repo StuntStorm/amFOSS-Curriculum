@@ -3,7 +3,7 @@
 ```
 ```
 Answer:
->
+> {}
 ```
 -----------------------------------------------------
 ```
@@ -11,7 +11,7 @@ Answer:
 ```
 ```
 Answer:
->
+> {'foo': 42}
 ```
 -----------------------------------------------------
 ```
@@ -19,7 +19,9 @@ Answer:
 ```
 ```
 Answer:
->
+> Dictionary elements are accessed using key-values and the keys of dictionary can be of any data type.
+
+> List elements are accessed using indexing and the indexing of list are integers starting from 0
 ```
 -----------------------------------------------------
 ```
@@ -27,7 +29,7 @@ Answer:
 ```
 ```
 Answer:
->
+> Trying to access a key that does not exist in a dictionary will result in a KeyError error message, much like a list’s “out-of-range” IndexError error message.
 ```
 -----------------------------------------------------
 ```
@@ -35,7 +37,9 @@ Answer:
 ```
 ```
 Answer:
->
+> 'cat' in spam states that there is the string value called cat in the spam dictionary.
+
+> 'cat' in spam.keys() states that there is a key named cat.
 ```
 -----------------------------------------------------
 ```
@@ -43,7 +47,9 @@ Answer:
 ```
 ```
 Answer:
->
+> 'cat' in spam checks whether there is a 'cat' key in the dictionary
+
+> 'cat' in spam.values() checks whether there is a value 'cat' for one of the keys in spam
 ```
 -----------------------------------------------------
 ```
@@ -54,7 +60,7 @@ if 'color' not in spam:
 ```
 ```
 Answer:
->
+> spam.setdefault('color', 'black')
 ```
 -----------------------------------------------------
 ```
@@ -62,6 +68,6 @@ Answer:
 ```
 ```
 Answer:
->
+> pprint.pprint()
 ```
 -----------------------------------------------------
