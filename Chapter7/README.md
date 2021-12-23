@@ -1,4 +1,4 @@
-t creates Regex objects?
+What is the function that creates Regex objects?
 ```
 ```
 Answer:
