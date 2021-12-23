@@ -1,5 +1,4 @@
-```
-1. What is the function that creates Regex objects?
+t creates Regex objects?
 ```
 ```
 Answer:
@@ -35,7 +34,11 @@ Answer:
 ```
 ```
 Answer:
->
+> Group 0 is the entire match
+
+> Group 1 covers the first set of parentheses
+
+> Group 2 covers the second set of parentheses
 ```
 -----------------------------------------------------
 ```
@@ -43,7 +46,11 @@ Answer:
 ```
 ```
 Answer:
->
+> Periods and parentheses can be escaped with a backslash:
+
+> \.
+> \,
+> \\
 ```
 -----------------------------------------------------
 ```
@@ -51,7 +58,9 @@ Answer:
 ```
 ```
 Answer:
->
+> If the regex has no groups a list of strings is returned
+
+> If the regex has groups a list of tuples of strings is returned
 ```
 -----------------------------------------------------
 ```
@@ -87,7 +96,9 @@ Answer:
 ```
 ```
 Answer:
->
+> {3} will give the value 3 times
+
+> {3,5} will give minimum of 3 and maximum of 4
 ```
 -----------------------------------------------------
 ```
@@ -95,7 +106,11 @@ Answer:
 ```
 ```
 Answer:
->
+> One or more numeric digits (\d)
+
+> One or more letter/digit/underscore characters (\w)
+
+> Whitespace character (\s)
 ```
 -----------------------------------------------------
 ```
@@ -103,7 +118,11 @@ Answer:
 ```
 ```
 Answer:
->
+> Any character that is not a numeric digit from 0 to 9. (/D)
+
+> Any character that is not a letter, numeric digit, or the underscore character. (\W)
+
+> Any character that is not a space, tab, or newline. (\S)
 ```
 -----------------------------------------------------
 ```
@@ -111,7 +130,7 @@ Answer:
 ```
 ```
 Answer:
->
+> dot-star (.*) to stand in for that “anything.”
 ```
 -----------------------------------------------------
 ```
@@ -119,7 +138,7 @@ Answer:
 ```
 ```
 Answer:
->
+> \d, \w
 ```
 -----------------------------------------------------
 ```
@@ -127,7 +146,7 @@ Answer:
 ```
 ```
 Answer:
->
+> re.IGNORECASE or re.I
 ```
 -----------------------------------------------------
 ```
@@ -135,7 +154,7 @@ Answer:
 ```
 ```
 Answer:
->
+>  Regular Expression, re.DOTALL is passed as the second argument to re.compile(), then the dot will also match newline characters
 ```
 -----------------------------------------------------
 ```
@@ -143,7 +162,7 @@ Answer:
 ```
 ```
 Answer:
->
+> X drummers, X pipers, five rings, X hens
 ```
 -----------------------------------------------------
 ```
@@ -151,7 +170,7 @@ Answer:
 ```
 ```
 Answer:
->
+> re.VERBOSE argument allows you to add whitespace and comments to the string passed to re.compile()
 ```
 -----------------------------------------------------
 ```
@@ -168,7 +187,7 @@ but not the following:
 ```
 ```
 Answer:
->
+> re.compile(r'^\d{1,3}(,\d{3})*$')
 ```
 -----------------------------------------------------
 ```
@@ -187,7 +206,7 @@ but not the following:
 ```
 ```
 Answer:
->
+> re.compile(r'[a-z][A-Z]*\sNakamoto')
 ```
 -----------------------------------------------------
 ```
@@ -207,6 +226,6 @@ but not the following:
 ```
 ```
 Answer:
->
+> re.compile(r'(Alice|Bob|Carol)\s(eats|pets|throws)\s(apples|cats|baseballs)\.', re.IGNORECASE)
 ```
 -----------------------------------------------------
