@@ -48,6 +48,8 @@ For more details : [Rizwan's amFOSS-Curriculum](https://github.com/StuntStorm/am
 
 > Reach me out on Discord : StuntStorm#7231
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/56226566/147406109-537d26fb-22df-4345-994b-a62ee15fc0d2.gif)
+
 
 ### Social Media
 
