@@ -3,7 +3,7 @@
 ```
 ```
 Answer:
->
+> Move the mouse toward a corner to stop a program
 ```
 -----------------------------------------------------
 ```
@@ -11,23 +11,24 @@ Answer:
 ```
 ```
 Answer:
->
+> Using pyautogui.size() function
 ```
 -----------------------------------------------------
 ```
-3.
+3. What function returns the coordinates for the mouse cursor’s current position?
 ```
 ```
 Answer:
->
+> Using pyautogui.position() function
 ```
 -----------------------------------------------------
 ```
 4. What is the difference between pyautogui.moveTo() and pyautogui.move()?
 ```
 ```
-Answer:
->
+> The pyautogui.moveTo() calls, the mouse cursor would have instantly teleported from point to point
+
+> The pyautogui.move() function moves the mouse cursor relative to its current position
 ```
 -----------------------------------------------------
 ```
@@ -35,7 +36,7 @@ Answer:
 ```
 ```
 Answer:
->
+> Using pyautogui.drag() function
 ```
 -----------------------------------------------------
 ```
@@ -43,7 +44,7 @@ Answer:
 ```
 ```
 Answer:
->
+> pyautogui.write('Hello, world!')
 ```
 -----------------------------------------------------
 ```
@@ -51,7 +52,7 @@ Answer:
 ```
 ```
 Answer:
->
+> pyautogui.write(['left'])
 ```
 -----------------------------------------------------
 ```
@@ -59,7 +60,7 @@ Answer:
 ```
 ```
 Answer:
->
+> pyautogui.screenshot('screenshot.png')
 ```
 -----------------------------------------------------
 ```
@@ -67,7 +68,7 @@ Answer:
 ```
 ```
 Answer:
->
+> pyautogui.sleep(2)
 ```
 -----------------------------------------------------
 ```
@@ -75,7 +76,7 @@ Answer:
 ```
 ```
 Answer:
->
+> PyAutoGUI - move the mouse cursor around the screen and simulate mouse clicks, keystrokes, and keyboard shortcuts
 ```
 -----------------------------------------------------
 ```
@@ -83,7 +84,7 @@ Answer:
 ```
 ```
 Answer:
->
+> As it stops the entire program if there is any error found and also notifies us with error message.
 ```
 -----------------------------------------------------
 ```
@@ -91,7 +92,7 @@ Answer:
 ```
 ```
 Answer:
->
+> Specifying title and then using size function
 ```
 -----------------------------------------------------
 ```
@@ -99,6 +100,6 @@ Answer:
 ```
 ```
 Answer:
->
+> Using pyautogui.click() function
 ```
 -----------------------------------------------------
