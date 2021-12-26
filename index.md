@@ -7,7 +7,7 @@ These Chapters are from [Automate the Boring Stuff](https://automatetheboringstu
 
 You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
 
-<iframe src="amFOSS-Curriculum/blob/gh-pages/1.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
+<iframe src="https://github.com/StuntStorm/amFOSS-Curriculum/blob/gh-pages/1.mp3" allow="autoplay" id="audio" style="display:none"></iframe>
 
 ### -Curriculum Chapters-
 
