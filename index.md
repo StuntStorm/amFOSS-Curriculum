@@ -7,7 +7,7 @@ These Chapters are from [Automate the Boring Stuff](https://automatetheboringstu
 
 You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
 
-<iframe width="0" height="0" src="http://www.youtuberepeater.com/watch?v=ge3GT8_un6s" frameborder="0" allowfullscreen></iframe>
+<iframe width="0" height="0" src="https://www.youtuberepeater.com/watch?v=s-Dq5FJEH10#gsc.tab=0" frameborder="0" allowfullscreen></iframe>
 
 ### -Curriculum Chapters-
 
