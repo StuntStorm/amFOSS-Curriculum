@@ -3,7 +3,7 @@
 ```
 ```
 Answer:
->
+> assert(spam >= 10, 'spam is less than 10.')
 ```
 -----------------------------------------------------
 ```
@@ -11,7 +11,7 @@ Answer:
 ```
 ```
 Answer:
->
+> assert(eggs.upper() != bacon.upper(), 'The eggs and bacon variables are the same!') or assert(eggs.lower() != bacon.lower(), 'The eggs and bacon variables are the same!')
 ```
 -----------------------------------------------------
 ```
@@ -19,7 +19,7 @@ Answer:
 ```
 ```
 Answer:
->
+> assert(False, 'Error message : This assertion always triggers.')
 ```
 -----------------------------------------------------
 ```
@@ -27,7 +27,14 @@ Answer:
 ```
 ```
 Answer:
->
+> Code :
+```
+```
+import logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s -  %(levelname)s -  %(message)s')
+logging.debug('Start of program')
+```
+```
 ```
 -----------------------------------------------------
 ```
@@ -35,7 +42,13 @@ Answer:
 ```
 ```
 Answer:
->
+> Code:
+```
+```
+import logging
+logging.basicConfig(filename='programLog.txt', level=logging.DEBUG, format='%(asctime)s -  %(levelname)s -  %(message)s')
+```
+```
 ```
 -----------------------------------------------------
 ```
@@ -43,7 +56,15 @@ Answer:
 ```
 ```
 Answer:
->
+> Info
+
+> Debug
+
+> Warning
+
+> Error
+
+> Critical
 ```
 -----------------------------------------------------
 ```
@@ -51,7 +72,7 @@ Answer:
 ```
 ```
 Answer:
->
+> logging.disable(logging.CRITICAL)
 ```
 -----------------------------------------------------
 ```
@@ -59,7 +80,7 @@ Answer:
 ```
 ```
 Answer:
->
+> Logging messages provides a timestamp and also disable certain functions on demand.
 ```
 -----------------------------------------------------
 ```
@@ -67,7 +88,11 @@ Answer:
 ```
 ```
 Answer:
->
+> Step Over button will quickly execute the function call without stepping into it
+
+> Step in button will cause the debugger to execute the next line of code and then pause again
+
+> Step Out button will quickly execute the rest of the code until it steps out of the function it currently is in
 ```
 -----------------------------------------------------
 ```
@@ -75,7 +100,7 @@ Answer:
 ```
 ```
 Answer:
->
+> It will stop when it has reached the end of the program or a line with a breakpoint.
 ```
 -----------------------------------------------------
 ```
@@ -83,7 +108,7 @@ Answer:
 ```
 ```
 Answer:
->
+> It is a setting on a line of code that causes the debugger to pause when the program execution reaches the line.
 ```
 -----------------------------------------------------
 ```
@@ -91,6 +116,6 @@ Answer:
 ```
 ```
 Answer:
->
+> We should right-click the line and select Set Breakpoint from the context menu
 ```
 -----------------------------------------------------
