@@ -11,26 +11,26 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 
 
 
-- Chapter 1  : https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter1
-- Chapter 2  : https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter2
-- Chapter 3  : [Functions Instructs you on how to define your own functions so that you can organize your code into more manageable chunks.](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter3)
-- Chapter 4  : []()
-- Chapter 5  : []()
-- Chapter 6  : []()
-- Chapter 7  : []()
-- Chapter 8  : []()
-- Chapter 9  : []()
-- Chapter 10 : []()
-- Chapter 11 : []()
-- Chapter 12 : []()
-- Chapter 13 : []()
-- Chapter 14 : []()
-- Chapter 15 : []()
-- Chapter 16 : []()
-- Chapter 17 : []()
-- Chapter 18 : []()
-- Chapter 19 : []()
-- Chapter 20 : []()
+- Chapter 1  : [Python Basics](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter1)
+- Chapter 2  : [Flow Control](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter2)
+- Chapter 3  : [Functions](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter3)
+- Chapter 4  : [Lists](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter4)
+- Chapter 5  : [Dictionaries](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter5)
+- Chapter 6  : [Manipulating Strings](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter6)
+- Chapter 7  : [Pattern Matching](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter7)
+- Chapter 8  : [Input Validation](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter8)
+- Chapter 9  : [Reading and Writing Files](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter9)
+- Chapter 10 : [Organizing Files ](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter10)
+- Chapter 11 : [Debugging](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter11)
+- Chapter 12 : [Web Scraping](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter12)
+- Chapter 13 : [Working with Excel Spreadsheets](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter13)
+- Chapter 14 : [Working with Google Sheets](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter14)
+- Chapter 15 : [Working with PDF](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter15)
+- Chapter 16 : [Working with CSV Files](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter16)
+- Chapter 17 : [Time, Tasks and Programs](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter17)
+- Chapter 18 : [Sending Email and Text Messages](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter18)
+- Chapter 19 : [Manipulating Images](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter19)
+- Chapter 20 : [GUI Automation](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter20)
 
 
 
