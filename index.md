@@ -1,5 +1,3 @@
-<iframe width="0" height="0" src="http://www.youtuberepeater.com/watch?v=ge3GT8_un6s" frameborder="0" allowfullscreen></iframe>
-
 ## N Rizwan's amFOSS Curriculum 
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56226566/147406552-bf855410-39b5-4f8e-b4e0-af7b9bfdc634.gif)
@@ -9,7 +7,7 @@ These Chapters are from [Automate the Boring Stuff](https://automatetheboringstu
 
 You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
 
-
+<iframe width="0" height="0" src="http://www.youtuberepeater.com/watch?v=ge3GT8_un6s" frameborder="0" allowfullscreen></iframe>
 
 ### -Curriculum Chapters-
 
