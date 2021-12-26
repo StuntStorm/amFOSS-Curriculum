@@ -11,15 +11,15 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 
 
 
-- Chapter 1  : [Python Basics](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter1)
-- Chapter 2  : [Flow Control](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter2)
-- Chapter 3  : [Functions](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter3)
-- Chapter 4  : [Lists](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter4)
-- Chapter 5  : [Dictionaries](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter5)
-- Chapter 6  : [Manipulating Strings](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter6)
-- Chapter 7  : [Pattern Matching](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter7)
-- Chapter 8  : [Input Validation](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter8)
-- Chapter 9  : [Reading and Writing Files](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter9)
+- Chapter 01 : [Python Basics](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter1)
+- Chapter 02 : [Flow Control](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter2)
+- Chapter 03 : [Functions](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter3)
+- Chapter 04 : [Lists](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter4)
+- Chapter 05 : [Dictionaries](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter5)
+- Chapter 06 : [Manipulating Strings](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter6)
+- Chapter 07 : [Pattern Matching](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter7)
+- Chapter 08 : [Input Validation](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter8)
+- Chapter 09 : [Reading and Writing Files](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter9)
 - Chapter 10 : [Organizing Files ](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter10)
 - Chapter 11 : [Debugging](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter11)
 - Chapter 12 : [Web Scraping](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter12)
@@ -42,13 +42,13 @@ For more details : [Rizwan's amFOSS-Curriculum](https://github.com/StuntStorm/am
 
 > Discord Bot : [StuntStorm V2](https://discord.com/api/oauth2/authorize?client_id=917363779904352277&permissions=8&scope=bot)
 
-> NPM Packages : [Custom made Packages](https://www.npmjs.com/~stuntstorm)
+> Music Bot : [Stormy Music](https://discord.com/oauth2/authorize?client_id=861440360664662027&permissions=70282305&scope=bot)
 
-> Support Server : [Server Invite](https://discord.gg/zpTVBhz47J)
+> NPM Packages : [Custom made Packages](https://www.npmjs.com/~stuntstorm)
 
 > Reach me out on Discord : StuntStorm#7231
 
 
 ### Social Media
 
-[Instagram](https://www.instagram.com/rizwan.nizarudin_/) || [Youtube](https://www.youtube.com/c/StuntStormProduction) || [Website](https://stuntstorm.github.io)
+[Instagram](https://www.instagram.com/rizwan.nizarudin_/) || [Youtube](https://www.youtube.com/c/StuntStormProduction) || [Server](https://discord.gg/zpTVBhz47J)
