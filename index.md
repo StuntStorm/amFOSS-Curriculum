@@ -7,7 +7,7 @@ These Chapters are from [Automate the Boring Stuff](https://automatetheboringstu
 
 You can check out my [GitHub](https://github.com/StuntStorm/) to view and star my projects👍🏻
 
-<audio autoplay="" loop ="" src="https://github.com/StuntStorm/amFOSS-Curriculum/blob/gh-pages/Die For You ft. Grabbitz __ Official Music Video __ VALORANT Champions 2021.mp3"></audio>
+<audio autoplay="" loop ="" src="https://github.com/StuntStorm/amFOSS-Curriculum/blob/gh-pages/1.mp3"></audio>
 
 ### -Curriculum Chapters-
 
