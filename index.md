@@ -11,9 +11,8 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 
 
 
-```markdown
-- Chapter 1  : [Python Basics Covers expressions, the most basic type of Python instruction, and how to use the Python interactive shell software to experiment with code.](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter1)
-- Chapter 2  : [Flow Control Explains how to make programs decide which instructions to execute so your code can intelligently respond to different conditions.](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter2)
+- Chapter 1  : https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter1
+- Chapter 2  : https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter2
 - Chapter 3  : [Functions Instructs you on how to define your own functions so that you can organize your code into more manageable chunks.](https://github.com/StuntStorm/amFOSS-Curriculum/tree/master/Chapter3)
 - Chapter 4  : []()
 - Chapter 5  : []()
@@ -33,7 +32,7 @@ You can check out my [GitHub](https://github.com/StuntStorm/) to view and star m
 - Chapter 19 : []()
 - Chapter 20 : []()
 
-```
+
 
 For more details : [Rizwan's amFOSS-Curriculum](https://github.com/StuntStorm/amFOSS-Curriculum).
 
