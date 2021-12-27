@@ -40,10 +40,12 @@ For more details : [Rizwan's amFOSS-Curriculum](https://github.com/StuntStorm/am
 
 ### Other Rizwan's Projects
 
-> Discord Bot : [StuntStorm V1](https://discord.com/api/oauth2/authorize?client_id=850011982777417759&permissions=8&scope=bot)
-> Discord Bot : [StuntStorm V2](https://discord.com/api/oauth2/authorize?client_id=917363779904352277&permissions=8&scope=bot)
-> Music Bot : [Stormy Music](https://discord.com/oauth2/authorize?client_id=861440360664662027&permissions=70282305&scope=bot)
-> NPM Packages : [Custom npm Packages](https://www.npmjs.com/~stuntstorm)
+- Discord Bot : [StuntStorm V1](https://discord.com/api/oauth2/authorize?client_id=850011982777417759&permissions=8&scope=bot)
+- Discord Bot : [StuntStorm V2](https://discord.com/api/oauth2/authorize?client_id=917363779904352277&permissions=8&scope=bot)
+- Music Bot : [Stormy Music](https://discord.com/oauth2/authorize?client_id=861440360664662027&permissions=70282305&scope=bot)
+- NPM Packages : [Custom npm Packages](https://www.npmjs.com/~stuntstorm)
+
+
 > Reach me out on Discord : StuntStorm#7231
 
 ### Social Media
