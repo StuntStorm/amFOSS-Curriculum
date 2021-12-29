@@ -16,7 +16,8 @@ def blankRowInserter(index, blanks, filename):
             elif r >= index+blanks:
                 sheet.cell(row=r+blanks, column=c).value = cellObj.value
 
-    wb.save('after_'+filename)
+    wb.save('insert_'+filename)
+
 num_args = len(sys.argv)
 
 if num_args < 4:
