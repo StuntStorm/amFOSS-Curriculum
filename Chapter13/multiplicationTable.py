@@ -1,8 +1,7 @@
 import sys
 import openpyxl
 from openpyxl.styles import Font
-from openpyxl.utils import column_index_from_string
-from openpyxl.utils import get_column_letter
+
 
 if len(sys.argv) > 1:
 	n = int(sys.argv[1])
