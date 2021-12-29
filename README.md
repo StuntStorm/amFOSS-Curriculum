@@ -10,25 +10,25 @@
 
 ### Part I: Python Programming Basics
 ```
-> Chapter 1: Python Basics Covers expressions, the most basic type of Python instruction, and how to use the Python interactive shell software to experiment with code.
+> Chapter 01: Python Basics Covers expressions, the most basic type of Python instruction, and how to use the Python interactive shell software to experiment with code.
 
-> Chapter 2: Flow Control Explains how to make programs decide which instructions to execute so your code can intelligently respond to different conditions.
+> Chapter 02: Flow Control Explains how to make programs decide which instructions to execute so your code can intelligently respond to different conditions.
 
-> Chapter 3: Functions Instructs you on how to define your own functions so that you can organize your code into more manageable chunks.
+> Chapter 03: Functions Instructs you on how to define your own functions so that you can organize your code into more manageable chunks.
 
-> Chapter 4: Lists Introduces the list data type and explains how to organize data.
+> Chapter 04: Lists Introduces the list data type and explains how to organize data.
 
-> Chapter 5: Dictionaries and Structuring Data Introduces the dictionary data type and shows you more powerful ways to organize data.
+> Chapter 05: Dictionaries and Structuring Data Introduces the dictionary data type and shows you more powerful ways to organize data.
 
-> Chapter 6: Manipulating Strings Covers working with text data (called strings in Python).
+> Chapter 06: Manipulating Strings Covers working with text data (called strings in Python).
 ```
 ### Part II: Automating Tasks
 ```
-> Chapter 7: Pattern Matching with Regular Expressions Covers how Python can manipulate strings and search for text patterns with regular expressions.
+> Chapter 07: Pattern Matching with Regular Expressions Covers how Python can manipulate strings and search for text patterns with regular expressions.
 
-> Chapter 8: Input Validation Explains how your program can verify the information a user gives it, ensuring that the user’s data arrives in a format that won’t cause errors in the rest of the program.
+> Chapter 08: Input Validation Explains how your program can verify the information a user gives it, ensuring that the user’s data arrives in a format that won’t cause errors in the rest of the program.
 
-> Chapter 9: Reading and Writing Files Explains how your program can read the contents of text files and save information to files on your hard drive.
+> Chapter 09: Reading and Writing Files Explains how your program can read the contents of text files and save information to files on your hard drive.
 
 > Chapter 10: Organizing Files Shows how Python can copy, move, rename, and delete large numbers of files much faster than a human user can. Also explains compressing and decompressing files.
 
