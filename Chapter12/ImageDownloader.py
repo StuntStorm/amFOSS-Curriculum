@@ -26,14 +26,9 @@ try:
 
 
     for link in download_links:
-
-
         res2 = requests.get(link)
-
         try:
             res2.raise_for_status()
-
-
             imgFile = open(os.path.join(abs_output_path, os.path.basename(link)), 'wb')
             for chunk in res2.iter_content(100000):
                 imgFile.write(chunk)
