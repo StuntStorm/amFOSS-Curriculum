@@ -1,6 +1,6 @@
 ## N Rizwan's amFOSS Curriculum 
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56226566/147406552-bf855410-39b5-4f8e-b4e0-af7b9bfdc634.gif)
+![N RIZWAN](https://user-images.githubusercontent.com/56226566/147807482-1d1104e4-ffb7-41da-bd93-a70caae81289.png)
 
 These Chapters are from [Automate the Boring Stuff](https://automatetheboringstuff.com)
 
@@ -49,7 +49,7 @@ For more details : [Rizwan's amFOSS-Curriculum](https://github.com/StuntStorm/am
 > Reach me out on Discord : StuntStorm#7231
 
 
-![N RIZWAN](https://user-images.githubusercontent.com/56226566/147807482-1d1104e4-ffb7-41da-bd93-a70caae81289.png)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/56226566/147406552-bf855410-39b5-4f8e-b4e0-af7b9bfdc634.gif)
 
 
 ### Social Media
